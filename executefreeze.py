@@ -12,6 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import os
+import time
 
 
 def trackfreeze(dhansdk_instance,accountnumber, access_token, loss_threshold):
@@ -67,7 +68,7 @@ def main(accountnumber, access_token, loss_threshold):
             if freeze_response and freeze_response.get("trackfreeze_data"):
                 logger.info(f"Account frozen due to losses: {freeze_response}")
                 break  # Exit loop after freezing account
-            
+            time.sleep(1)  # Wait for 5 minutes before next check
 
         
         except Exception as e:
