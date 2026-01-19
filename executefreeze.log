@@ -1,0 +1,9 @@
+
+{'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:__main__:Error in main loop: 'NoneType' object has no attribute 'get'
+{'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:__main__:Error in main loop: 'NoneType' object has no attribute 'get'
+{'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:__main__:Error in main loop: 'NoneType' object has no attribute 'get'
+{'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:__main__:Error in main loop: 'NoneType' object has no attribute 'get'
